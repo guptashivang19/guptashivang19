@@ -11,42 +11,26 @@ Power BI : Data Modeling, DAX, Build Business Reports
 
 Python : Pandas, Numpy, Matplotlib
 
-
 📫 Connect With Me
+
 🔗 LinkedIn : [Check Profile](https://www.linkedin.com/in/shivang-gupta-40a102253/)
+
 📩 Gmail :guptashivang430@gmail.com
+
 📞 Phone : 8458895495
 
 Power BI Projects :-
-Goodcabs Transportation & Mobility : 🔗
-AtliQ Motors EV Sales Strategy in India : 🔗
-Credit Card Strategic Insights : 🔗
-Hospitality Domain Revenue Insights : 🔗
-Shield Insurance Policy Analysis Report : 🔗
-Business Insights 360 : 🔗
-HR Analytics Dashboard : 🔗
-Superstore Sales Analysis : 🔗
-Madhav Ecommerce Data Insights : 🔗
+ 🔗
+
 SQL Projects :-
-Consumer Goods Ad-hoc Insights : 📁
-AtliQ Mart Festive Promotion Analysis : 📁
-Amazon Sales Analysis : 📁
-Coffee Store Data Analysis : 📁
-Library Management System : 📁
-Zomato Sales Analysis : 📁
-Museum Painting Case Study : 📁
-Apple Sales Analysis : 📁
-Netflix Sales Analysis : 📁
-Spotify Data Analysis : 📁
-IPL Data Insights : 📁
-Pizza Sales Analysis : 📁
+ 📁
+
 Python Projects :-
-Walmart Sales Analysis : 🔗
-Bank Customer Churn Analysis : 🔗
-E-commerce sale analysis : 🔗
+ 🔗
+
 Excel Projects :-
-Sales & Finance Report : 📁
-Road Accident Data 
+📁
+
 <!--
 **guptashivang19/guptashivang19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
