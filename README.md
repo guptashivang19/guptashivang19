@@ -20,7 +20,7 @@
 
 - 🔗 LinkedIn : [Check Profile](https://www.linkedin.com/in/shivang-gupta-40a102253/)
 
-- 📩 Gmail :guptashivang430@gmail.com
+- 📩 Gmail : guptashivang430@gmail.com
 
 - 📞 Phone : 8458895495
 
@@ -41,6 +41,7 @@
 - Adidas-Sales-Analytics : [🔗](https://github.com/guptashivang19/Adidas-Sales-Analytics)
 
 - Super-Store-Dashboard : [🔗](https://github.com/guptashivang19/Super-Store-Dashboard)
+
 ---
 
 ## SQL Projects :-
@@ -61,7 +62,6 @@
 
 - Bank Loan Analysis Dashboard : [🔗](https://github.com/guptashivang19/Financial-Loan-Analysis)
 
-- 
 ---
 <!--
 **guptashivang19/guptashivang19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
