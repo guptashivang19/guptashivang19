@@ -46,21 +46,28 @@
 
 ## SQL Projects :-
 
- - Walmart-Sales-Data-Analysis : [📁](https://github.com/guptashivang19/Walmart-Sales-Data-Analysis)
+- Coffee Store Data Analysis : [📁](https://github.com/guptashivang19/Coffee_Store_Data_Analysis_SQL)
+
+- Library Management System : [📁](https://github.com/guptashivang19/-library_management_system_SQL)
  
 ---
 
-<!-- ## Python Projects :-
-
-
-
---->
-
 ## Excel Projects :-
+
+- Sales_Finance_Report : [🔗](https://github.com/guptashivang19/Sales_Finance_Report)
 
 - COVID-19 India Data Analysis Dashboard : [🔗](https://github.com/guptashivang19/COVID-19-India-Data-Analysis-Dashboard)
 
 - Bank Loan Analysis Dashboard : [🔗](https://github.com/guptashivang19/Financial-Loan-Analysis)
+
+- Road_Accident_Data_Analysis : [🔗](https://github.com/guptashivang19/Road_Accident_Data_Analysis)
+
+---
+
+## Python Projects :-
+- Walmart_sales_Analysis : [📁](https://github.com/guptashivang19/Walmart_sales_Analysis)
+
+- Ecommerce-Sales-Analysis : [📁](https://github.com/guptashivang19/-Ecommerce-Sales-Analysis)
 
 ---
 <!--
