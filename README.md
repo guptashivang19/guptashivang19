@@ -28,25 +28,40 @@
 
 ## Power BI Projects :-
 
- 🔗
+- Ola-Performance-Analytics : [🔗](https://github.com/guptashivang19/ola-Performance-Analytics)
+
+- Hospital_Management_Dashboard : [🔗](https://github.com/guptashivang19/Hospital_Management_Dashboard)
+
+- Amazon-Sales-Dashboard : [🔗](https://github.com/guptashivang19/Amazon-Dashboard)
+
+- Blinkit-Sales-Analytics : [🔗](https://github.com/guptashivang19/Blinkit-Sales-Analytics)
+
+- HR-Analytics-Dashboard : [🔗](https://github.com/guptashivang19/HR-Analytics-Dashboard)
+
+- Adidas-Sales-Analytics : [🔗](https://github.com/guptashivang19/Adidas-Sales-Analytics)
+
+- Super-Store-Dashboard : [🔗](https://github.com/guptashivang19/Super-Store-Dashboard)
 ---
 
 ## SQL Projects :-
 
- 📁
+ - Walmart-Sales-Data-Analysis : [📁](https://github.com/guptashivang19/Walmart-Sales-Data-Analysis)
  
 ---
 
 ## Python Projects :-
 
-🔗
+
 
 ---
 
 ## Excel Projects :-
 
-📁
+- COVID-19 India Data Analysis Dashboard : [🔗](https://github.com/guptashivang19/COVID-19-India-Data-Analysis-Dashboard)
 
+- Bank Loan Analysis Dashboard : [🔗](https://github.com/guptashivang19/Financial-Loan-Analysis)
+
+- 
 ---
 <!--
 **guptashivang19/guptashivang19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
