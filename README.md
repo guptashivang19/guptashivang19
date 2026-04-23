@@ -1,36 +1,53 @@
 ## 👋 Hi I'm Shivang 
 
-Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing, and visualizing data to deliver actionable insights & solve business problems.
+- Data Analyst Skilled in SQL, Excel, Power BI, and Python for cleaning, analyzing, and visualizing data to deliver actionable insights & solve business problems.
 
-🛠️ Skills & Tools :-
-SQL : Aggregation & Filtering, Joins, Window Functions, Subquery,Case Statement, CTE, Views
+---
 
-Excel : Pivot Tables, Power Query, Data Cleaning, Power Pivot
+## 🛠️ Skills & Tools :-
 
-Power BI : Data Modeling, DAX, Build Business Reports
+- SQL : Aggregation & Filtering, Joins, Window Functions, Subquery,Case Statement, CTE, Views
 
-Python : Pandas, Numpy, Matplotlib
+- Excel : Pivot Tables, Power Query, Data Cleaning, Power Pivot
 
-📫 Connect With Me
+- Power BI : Data Modeling, DAX, Build Business Reports
 
-🔗 LinkedIn : [Check Profile](https://www.linkedin.com/in/shivang-gupta-40a102253/)
+- Python : Pandas, Numpy, Matplotlib
 
-📩 Gmail :guptashivang430@gmail.com
+---
 
-📞 Phone : 8458895495
+## 📫 Connect With Me
 
-Power BI Projects :-
+- 🔗 LinkedIn : [Check Profile](https://www.linkedin.com/in/shivang-gupta-40a102253/)
+
+- 📩 Gmail :guptashivang430@gmail.com
+
+- 📞 Phone : 8458895495
+
+---
+
+## Power BI Projects :-
+
  🔗
+---
 
-SQL Projects :-
+## SQL Projects :-
+
  📁
+ 
+---
 
-Python Projects :-
- 🔗
+## Python Projects :-
 
-Excel Projects :-
+🔗
+
+---
+
+## Excel Projects :-
+
 📁
 
+---
 <!--
 **guptashivang19/guptashivang19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
